@@ -7,8 +7,9 @@ This project aims to diacritize Turkish text using deep learning techniques. Dia
 - `main.ipynb`: The main notebook for the project. It contains all the code for data preprocessing, model training, and prediction.
 
 - `train.csv`: Training data.
+- `random_data.txt`: Additional training data.
 - `test.csv`: Test data.
-- `result.csv`: Result files.
+- `test_result.csv`: Result files.
 
 ## Diacritization Process
 
